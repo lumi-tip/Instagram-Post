@@ -1,0 +1,99 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+html{
+    background: grey;
+}
+
+body{
+    background: #000;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    /* overflow: hidden; */
+}
+
+.post{
+    width:506px;
+    background-color:white;
+    margin: auto;
+}
+
+.post_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.flex_container{
+    display:flex;
+    margin:14px 10px;
+    width:50%;
+}
+
+.profile_name{
+    display:flex;
+    flex-direction: column;
+}
+
+#name{
+    font-size: 16px;
+}
+
+.profile_picture{
+    width:40px;
+    height:40px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin-right:5px;
+}
+
+.header_icon i{
+    width:25px;
+    margin: 0 auto;
+}
+
+.post_image{
+    width:506px;
+    height:382px;
+    object-fit:cover;
+}
+
+.post_section_icons{
+    display: flex;
+    justify-content: space-between;
+    margin:20px 15px 30px 15px;
+}
+
+.post_section_leftIcons i{
+    margin:0 3px 0 0;
+}
+
+#heart:hover{
+    color:red;
+}
+
+#bookmark:hover{
+    color:grey;
+}
+
+
+.post_section_rightIcons i{
+    margin:0 5px;
+}
+
+.post_footer{
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.description{
+    margin-bottom:20px;
+}
+
