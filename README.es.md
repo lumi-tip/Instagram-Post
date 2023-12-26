@@ -1,28 +1,10 @@
-# HTML Hello
+# Réplica de post de instagram
 
-El boilerplate más básico para cualquier estudiante de 4Geeks Academy, empieza tu primer sitio web desde cero.
+Este es mi primer intento de imitar el diseño de un post de instagram solo usando html (no responsive)
 
-> Tienes un video tutorial sobre [cómo usar esta plantilla para crear tu primer sitio web aquí](https://youtu.be/dfbDCMu_p-0).
+## Objetivo
 
-## ¿Qué hacer a continuación?
-
-Crea un archivo `index.html` con [la estructura básica de HTML](https://4geeks.com/es/lesson/what-is-html-learn-html-es#estructura-de-pgina) y ve el resultado en vivo corriendo un servidor web utilizando el siguiente comando:
-
-```bash
-$ pip3 install flask && python3 server.py
-```
-
-- Puedes crear tantos archivos HTML cómo desees.
-- También puedes crear archivos CSS e importarlos en tu página web utilizando una etiqueta `<link>` ubicándola entre las etiquetas `<head></head>`, de la siguiente manera:
-
-```html
-<head>
-  ...
-  <link rel="stylesheet" type="text/css" href="styles.css">
-  ...
-</head>
-```
-
+Imitar un el diseño de un post de instagram basandose en [esta imagen](https://storage.googleapis.com/breathecode-asset-images/800dcb7e37ce3458a2b187970249318da2b03c898d9d6a20f1c05898b67524a0.png?raw=true)
 
 ## Agradecimientos
 
