@@ -6,7 +6,7 @@ Este es mi primer intento de imitar el diseño de un post de instagram solo usan
 
 Imitar un el diseño de un post de instagram basandose en [esta imagen](https://storage.googleapis.com/breathecode-asset-images/800dcb7e37ce3458a2b187970249318da2b03c898d9d6a20f1c05898b67524a0.png?raw=true)
 
-## Agradecimientos
+### Agradecimientos
 
 Esta y otras plantillas son utilizadas para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp). 
 
